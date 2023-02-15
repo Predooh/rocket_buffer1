@@ -2,16 +2,16 @@ Sistema de caixa eletronico.
 
   Caixa eletronico contendo deposito, saque, transferencias e roubos.
 
-> Caixa eletronico. [x]
+> Caixa eletronico:
 Modelo proximo a pontos traçados do mapa, cujo objetivo é interatividade;
 
-> Deposito. [x]
+> Deposito:
 O usuario deve acessar o painel do caixa e depositar a quantia, cujo valor ficara salvo e reservado;
 
-> Saque: []
+> Saque:
 O usuario saca dinheiro para utilizar de maneira livre no comercio do servidor;
 
-> Roubos: []
+> Roubos:
 O usuario rouba o caixa retirando um valor aleatorio.
 
 Algoritmo:
